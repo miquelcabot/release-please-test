@@ -1,0 +1,19 @@
+{
+  "name": "release-please-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miquelcabot/release-please-test.git"
+  },
+  "author": "Miquel A. Cabot",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miquelcabot/release-please-test/issues"
+  },
+  "homepage": "https://github.com/miquelcabot/release-please-test#readme",
+  "devDependencies": {
+    "release-please": "^11.13.0"
+  }
+}
